@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+chest-xray-pneumonia/
+templates/
+venv/
+.streamlit/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
