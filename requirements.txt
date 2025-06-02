@@ -1,7 +1,6 @@
-pandas
-numpy
 streamlit
+numpy
 opencv-python
 Pillow
-tensorflow
+tensorflow==2.13.0
 scikit-learn
