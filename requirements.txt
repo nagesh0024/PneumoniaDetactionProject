@@ -1,5 +1,7 @@
+pandas
 numpy
 streamlit
 opencv-python
 Pillow
 tensorflow
+scikit-learn
